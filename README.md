@@ -1,4 +1,4 @@
-## java_static_server
+## go_static_server
 a simple demo of implements static web tcp proto
 
 **Proxy static request if you run it correctly.**
@@ -48,9 +48,10 @@ output:
 
 if you run localhost and test also on localhost
 
-**the are tow **
 
 ```url
+# view a html
 localhost:9000/index.html
+# view a image.
 localhost:9000/bmft.png
 ```
